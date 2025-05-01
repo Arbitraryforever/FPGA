@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Xinlin/FPGA/template/sim
+T_opt
+!s110 1746090399
+V52h_GG_gNj9:3A<9ODeId1
+04 6 4 work led_tb fast 0
+=1-58112281e878-6813399d-178-6fcc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vled
+!s110 1746090105
+!i10b 1
+!s100 _V3`1ET_hjfP8jV:O`6m_2
+IA0hzPR9BnKhY5;TFRo`LB0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Xinlin/FPGA/led/sim
+w1746088960
+8D:/FPGA/Xinlin/FPGA/led/rtl/led.v
+FD:/FPGA/Xinlin/FPGA/led/rtl/led.v
+L0 1
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1746090105.000000
+!s107 D:/FPGA/Xinlin/FPGA/led/rtl/led.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/Xinlin/FPGA/led/rtl/led.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vled_tb
+!s110 1746090263
+!i10b 1
+!s100 T`f_>UD^5;5PMJ2[3H<Xl2
+I9d`R;Y6lBBHzhI1M]z`0[3
+R1
+R2
+w1746090260
+8D:/FPGA/Xinlin/FPGA/led/sim/led_tb.v
+FD:/FPGA/Xinlin/FPGA/led/sim/led_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1746090263.000000
+!s107 D:/FPGA/Xinlin/FPGA/led/sim/led_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/FPGA/Xinlin/FPGA/led/sim/led_tb.v|
+!i113 0
+R4
+R0

@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:D:/FPGA/Xinlin/FPGA/led/prj/led.srcs/constrs_1/new/led.xdc rfile:../../../led.srcs/constrs_1/new/led.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L20 [get_ports key]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN J18 [get_ports led]

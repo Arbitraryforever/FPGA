@@ -1,0 +1,8 @@
+D:/FPGA/Xinlin/FPGA/led/sim/led_tb.v {1 {vlog -work work -vopt -stats=none D:/FPGA/Xinlin/FPGA/led/sim/led_tb.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module led_tb
+
+Top level modules:
+	led_tb
+
+} {} {}}
